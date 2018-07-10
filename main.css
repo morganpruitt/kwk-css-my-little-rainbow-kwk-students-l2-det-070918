@@ -10,6 +10,24 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
-#violet {
-  background-color: blue;
+#purple {
+  background-color:#a100ff ;
+}
+#indigo {
+  background-color: #1616bc;
+}
+#blue{
+  background-color: #0072ff;
+}
+#green{
+  background-color: #2adb0a;
+}
+#yellow{
+  background-color: #fff600;
+  }
+#orange{
+  background-color: #ff7200;
+}  
+#red{
+  background-color: #ff2600;
 }
